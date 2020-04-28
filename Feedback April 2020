@@ -1,0 +1,12 @@
+This is a list of feedback that was received on the April 2020 Model-T call. In no particular order.
+
+1. What is the consquence of the security on what specific protocols? 
+2. What about insider attacks and list of remedies? More network focused?
+3. Consider designers who are working on different layers of the stack. Break down the stack and suggest protocol recommendations at different layers.
+4. What protocol problems would you go back and fix based on these suggestions, espcially in recent standards?
+5. What were the assets to protect? User data, users and etc as examples for updating protocols.
+6. Look at metadata as a target on a network and also other assets like databases.
+7. There is a cascading impact across not just one system, but multiple ones. Ensure a holistic approach.
+8. Also show how absence of protocol design and updates leads to catastophy as well.
+9. Focus on asset protection and defence in depth.
+10. Create a list of asset descriptions.
