@@ -174,7 +174,7 @@ Internet-Draft Security Considerations for Protocol Designers March 2020
 
 2. Attacks
 
-** add section on focus of attacks here ** 
+** Insert section on focus of attacks here ** 
 
 
 
@@ -1090,6 +1090,7 @@ Lazanski              Expires September 8, 2020               [Page 22]
 
 Internet-Draft Security Considerations for Protocol Designers March 2020
 
+** Insert section on protcol design with defense in depth **
 
 4. The Overall Security Picture
 
