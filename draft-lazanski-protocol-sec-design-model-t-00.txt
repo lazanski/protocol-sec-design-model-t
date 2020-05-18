@@ -170,8 +170,13 @@ Internet-Draft Security Considerations for Protocol Designers March 2020
      Section 5 suggests the methodology by which considerations
      outlined in this draft may be consistently thought through in
      protocol design.
+     
 
 2. Attacks
+
+** add section on focus of attacks here ** 
+
+
 
      In this section we outline some attack types that are well-known
      in industry and in public. For each attack type, we give examples
